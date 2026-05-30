@@ -1,4 +1,3 @@
-```markdown
 # FER-2013-Facial-Expresion-Classification
 
 This project uses deep learning to classify facial expressions from grayscale face images in the FER-2013 dataset.

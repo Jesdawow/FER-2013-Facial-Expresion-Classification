@@ -14,7 +14,7 @@ The project also shows an iterative deep learning workflow where several CNN mod
 
 Main files and folders:
 
-- `data/` - FER-2013 dataset with train, test and own image folders
+- `data/` - FER-2013 dataset including train, test and own image folders
 - `report_fer2013.ipynb` - notebook with code, results and written analysis
 - `fer2013_model_3_optimized.keras` - saved final CNN model
 - `requirements.txt` - required Python packages
